@@ -1,0 +1,15 @@
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/bin/Debug/net7.0/App2024_03
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/bin/Debug/net7.0/App2024_03.deps.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/bin/Debug/net7.0/App2024_03.runtimeconfig.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/bin/Debug/net7.0/App2024_03.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/bin/Debug/net7.0/App2024_03.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/obj/Debug/net7.0/App2024_03.csproj.AssemblyReference.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/obj/Debug/net7.0/App2024_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/obj/Debug/net7.0/App2024_03.AssemblyInfoInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/obj/Debug/net7.0/App2024_03.AssemblyInfo.cs
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/obj/Debug/net7.0/App2024_03.csproj.CoreCompileInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/obj/Debug/net7.0/App2024_03.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/obj/Debug/net7.0/refint/App2024_03.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/obj/Debug/net7.0/App2024_03.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/obj/Debug/net7.0/App2024_03.genruntimeconfig.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/c#/App2024_03/obj/Debug/net7.0/ref/App2024_03.dll
