@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#_2024/App_03/App2024_03.csproj",
+      "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_03/App2024_03.csproj",
       "projectName": "App2024_03",
-      "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#_2024/App_03/App2024_03.csproj",
+      "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_03/App2024_03.csproj",
       "packagesPath": "/Users/ivelindilqnovmihaylov/.nuget/packages/",
-      "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#_2024/App_03/obj/",
+      "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_03/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ivelindilqnovmihaylov/.nuget/NuGet/NuGet.Config"

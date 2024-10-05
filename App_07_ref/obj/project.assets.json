@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#_2024/App_07_ref/App_07_ref.csproj",
+      "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_07_ref/App_07_ref.csproj",
       "projectName": "App_07_ref",
-      "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#_2024/App_07_ref/App_07_ref.csproj",
+      "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_07_ref/App_07_ref.csproj",
       "packagesPath": "/Users/ivelindilqnovmihaylov/.nuget/packages/",
-      "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#_2024/App_07_ref/obj/",
+      "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_07_ref/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ivelindilqnovmihaylov/.nuget/NuGet/NuGet.Config"
