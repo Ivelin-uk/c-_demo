@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace App_10
 {
-    public class Animal
+    abstract public class Animal
     {
         public void Eat()
         {
