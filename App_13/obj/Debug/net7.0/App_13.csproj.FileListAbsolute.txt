@@ -1,0 +1,15 @@
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/bin/Debug/net7.0/App_13
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/bin/Debug/net7.0/App_13.deps.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/bin/Debug/net7.0/App_13.runtimeconfig.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/bin/Debug/net7.0/App_13.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/bin/Debug/net7.0/App_13.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/obj/Debug/net7.0/App_13.csproj.AssemblyReference.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/obj/Debug/net7.0/App_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/obj/Debug/net7.0/App_13.AssemblyInfoInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/obj/Debug/net7.0/App_13.AssemblyInfo.cs
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/obj/Debug/net7.0/App_13.csproj.CoreCompileInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/obj/Debug/net7.0/App_13.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/obj/Debug/net7.0/refint/App_13.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/obj/Debug/net7.0/App_13.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/obj/Debug/net7.0/App_13.genruntimeconfig.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_13/obj/Debug/net7.0/ref/App_13.dll
