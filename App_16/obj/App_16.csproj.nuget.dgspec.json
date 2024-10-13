@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/C#_2024.csproj": {}
+    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_16/App_16.csproj": {}
   },
   "projects": {
-    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/C#_2024.csproj": {
+    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_16/App_16.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/C#_2024.csproj",
-        "projectName": "C#_2024",
-        "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/C#_2024.csproj",
+        "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_16/App_16.csproj",
+        "projectName": "App_16",
+        "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_16/App_16.csproj",
         "packagesPath": "/Users/ivelindilqnovmihaylov/.nuget/packages/",
-        "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/obj/",
+        "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_16/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ivelindilqnovmihaylov/.nuget/NuGet/NuGet.Config"
