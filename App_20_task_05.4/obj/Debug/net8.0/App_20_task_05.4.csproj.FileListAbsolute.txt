@@ -1,0 +1,15 @@
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/bin/Debug/net8.0/App_20_task_05.4
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/bin/Debug/net8.0/App_20_task_05.4.deps.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/bin/Debug/net8.0/App_20_task_05.4.runtimeconfig.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/bin/Debug/net8.0/App_20_task_05.4.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/bin/Debug/net8.0/App_20_task_05.4.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/obj/Debug/net8.0/App_20_task_05.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/obj/Debug/net8.0/App_20_task_05.4.AssemblyInfoInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/obj/Debug/net8.0/App_20_task_05.4.AssemblyInfo.cs
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/obj/Debug/net8.0/App_20_task_05.4.csproj.CoreCompileInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/obj/Debug/net8.0/App_20_task_05.4.sourcelink.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/obj/Debug/net8.0/App_20_task_05.4.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/obj/Debug/net8.0/refint/App_20_task_05.4.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/obj/Debug/net8.0/App_20_task_05.4.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/obj/Debug/net8.0/App_20_task_05.4.genruntimeconfig.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_task_05.4/obj/Debug/net8.0/ref/App_20_task_05.4.dll

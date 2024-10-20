@@ -1,0 +1,15 @@
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/bin/Debug/net8.0/App_23
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/bin/Debug/net8.0/App_23.deps.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/bin/Debug/net8.0/App_23.runtimeconfig.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/bin/Debug/net8.0/App_23.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/bin/Debug/net8.0/App_23.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/obj/Debug/net8.0/App_23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/obj/Debug/net8.0/App_23.AssemblyInfoInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/obj/Debug/net8.0/App_23.AssemblyInfo.cs
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/obj/Debug/net8.0/App_23.csproj.CoreCompileInputs.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/obj/Debug/net8.0/App_23.sourcelink.json
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/obj/Debug/net8.0/App_23.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/obj/Debug/net8.0/refint/App_23.dll
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/obj/Debug/net8.0/App_23.pdb
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/obj/Debug/net8.0/App_23.genruntimeconfig.cache
+/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_23/obj/Debug/net8.0/ref/App_23.dll
