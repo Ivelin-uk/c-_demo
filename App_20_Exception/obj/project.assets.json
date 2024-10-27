@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20/App_20.csproj",
+      "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_Exception/App_20.csproj",
       "projectName": "App_20",
-      "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20/App_20.csproj",
+      "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_Exception/App_20.csproj",
       "packagesPath": "/Users/ivelindilqnovmihaylov/.nuget/packages/",
-      "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20/obj/",
+      "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_20_Exception/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ivelindilqnovmihaylov/.nuget/NuGet/NuGet.Config"

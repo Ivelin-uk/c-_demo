@@ -19,7 +19,7 @@ public class Program
 
             int r = n1 / n2;
             Console.Write("R: ");
-            System.Console.WriteLine(r);
+            System.Console.WriteLine(r); 
         }
         catch (Exception error)
         {
