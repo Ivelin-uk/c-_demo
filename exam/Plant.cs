@@ -10,92 +10,123 @@ public abstract class Plant
     private string type;
     private double humidityLevel;
     private double fertilityLevel;
-    private List<CareItem> careItems;
+    private List<CareItem> careItems = new List<CareItem>();
 
     public int Id
     {
-        get => this.id
-        private set 
+        get
         {
-            this.id = value
+            return this.id;
+        }
+        set 
+        {
+            this.id = value;
         }
     }
 
     public string Name
     {
-        get => this.name;
+        get 
+        {
+            return this.name;
+        }
         set
         {
             if (value.Length < 3 || value.Length > 30)
             {
                 throw new ArgumentException("Name should be between 3 and 30 characters!");
             }
-            name = value;
+            this.name = value;
         }
     }
 
     public string Type
     {
-        get => type;
+        get
+        {
+            return this.type;
+        }
         set
         {
             if (value.Length < 3 || value.Length > 30)
             {
                 throw new ArgumentException("Type should be between 3 and 30 characters!");
             }
-            type = value;
+            this.type = value;
         }
     }
 
-    public List<CareItem> CareItems { get; private set; }
-
     public double HumidityLevel
     {
-        get => humidityLevel;
+        get 
+        {
+            return this.humidityLevel;
+        }
         set
         {
             if (value < 0 || value > 1)
             {
                 throw new ArgumentException("Humidity Level should be between 0 and 1!");
             }
-            humidityLevel = value;
+            this.humidityLevel = value;
         }
     }
 
     public double FertilityLevel
     {
-        get => fertilityLevel;
+        get
+        { 
+            return this.fertilityLevel;
+        }
         set
         {
             if (value < 0 || value > 1)
             {
                 throw new ArgumentException("Fertility Level should be between 0 and 1!");
             }
-            fertilityLevel = value;
-        }
-    }
-
-    public List<CareItem> CareItems
-    {
-        get => _careItems;
-        set
-        {
-            if (value == null)
-            {
-                throw new ArgumentException("CareItems list cannot be null!");
-            }
-            careItems = value;
+            this.fertilityLevel = value;
         }
     }
 
     protected Plant(int id, string name, string type, double humidityLevel, double fertilityLevel)
     {
-        Id = id;
-        Name = name;
-        Type = type;
-        HumidityLevel = humidityLevel;
-        FertilityLevel = fertilityLevel;
-        CareItems = new List<CareItem>();
+        this.Id = id;
+        this.Name = name;
+        this.Type = type;
+        this.HumidityLevel = humidityLevel;
+        this.FertilityLevel = fertilityLevel;
+        //this.careItems = new List<CareItem>();
     }
-    public abstract void CareInstructions();
+    public void AddCareItem(CareItem careItem)
+    {
+        this.careItems.Add(careItem);
+    }
+
+    public int TotalCaresDone()
+    {
+        return 0;
+    }
+
+    public bool Water()
+    {
+        return  false;
+    }
+    
+    public bool Fertilize(double percent)
+    {
+         return  false;
+    }
+
+    public override string ToString()
+    {
+        string result = $"Name: {this.Name}";
+        result += "\n";
+        result += $"Type: {this.Type}";
+        result += "\n";
+        result += $"Humidity Level: {this.HumidityLevel} %";
+        result += "\n";
+        result += $"Fertility Level: {this.FertilityLevel} %";
+
+        return result;
+    }
 }
