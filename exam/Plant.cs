@@ -104,17 +104,27 @@ public abstract class Plant
 
     public int TotalCaresDone()
     {
-        return 0;
+        return careItems.Where(x => x.Status == true).Count();
     }
 
-    public bool Water()
+    public bool Water(double percent)
     {
-        return  false;
+        if (HumidityLevel + percent <= 1)
+        {
+            HumidityLevel += percent;
+            return true;
+        }
+        return false;
     }
     
     public bool Fertilize(double percent)
     {
-         return  false;
+        if (FertilityLevel + percent <= 1)
+        {
+            FertilityLevel += percent;
+            return true;
+        }
+        return false;
     }
 
     public override string ToString()

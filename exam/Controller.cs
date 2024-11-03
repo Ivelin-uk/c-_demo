@@ -14,15 +14,20 @@ public class Controller
 
     public string AddCareItem(List<string> args)
     {
-        /*
-            При успех върнете:
+        int plantId = int.Parse(args[0]);
+        string name = args[1];
+        bool status = bool.Parse(args[2]);
 
-            Съобщение: Created Care {name} for {plantId}!
-
-            Ако такова растение не съществува - да се изведе "Plant not found!".
-        */
-        //TODO: Implement me...
-        throw new NotImplementedException();
+        if(plants.ContainsKey(plantId))
+        {
+            CareItem CareItem = new CareItem(name,status);
+            plants[plantId].AddCareItem(CareItem);
+            return $"Created Care {name} for {plantId}!";
+        }
+        else
+        {
+            return $"Plant not found!";
+        }
     }
 
     public string AddPlant(List<string> args)
@@ -71,26 +76,64 @@ public class Controller
 
     public string GetTotalCaresByPlantId(List<string> args)
     {
-        //TODO: Implement me...
-        throw new NotImplementedException();
+        int plantId = int.Parse(args[0]);
+        if(!plants.ContainsKey(plantId))
+        {
+            return $"Plant not found!";
+        }
+
+        int count = plants[plantId].TotalCaresDone();
+        return $"Total cares for plant {plantId}: {count}";
     }
 
     public string WaterPlantById(List<string> args)
     {
-        //TODO: Implement me...
-        throw new NotImplementedException();
+        int plantId = int.Parse(args[0]);
+        double percent = double.Parse(args[1]);
+
+        if(!plants.ContainsKey(plantId))
+        {
+            return $"Plant not found!";
+        }
+
+        if(plants[plantId].Water(percent))
+        {
+            return $"Plant {plantId} was watered successfully!";
+        }
+        else
+        {
+            return $"Plant {plantId} could not be watered!.";
+        }
     }
 
     public string FertilizePlantById(List<string> args)
     {
-        //TODO: Implement me...
-        throw new NotImplementedException();
+        int plantId = int.Parse(args[0]);
+        double percent = double.Parse(args[1]);
+
+        if(!plants.ContainsKey(plantId))
+        {
+            return $"Plant not found!";
+        }
+
+        if(plants[plantId].Fertilize(percent))
+        {
+            return $"Plant {plantId} was fertilized successfully!";
+        }
+        else
+        {
+            return $"Plant {plantId} could not be fertilized!";
+        }
     }
 
     public string GetTallestTree(List<string> args)
-    {
-        //TODO: Implement me...
-        throw new NotImplementedException();
+    {   
+        var tallest = plants.Values.OfType<TreePlant>().OrderByDescending(x => x.Height).FirstOrDefault();
+        if (tallest == null)
+        {
+            return "No trees found!";
+        }
+        return tallest.ToString();
     }
 
 }
