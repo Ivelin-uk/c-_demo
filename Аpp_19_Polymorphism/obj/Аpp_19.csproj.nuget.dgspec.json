@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/Аpp_19/Аpp_19.csproj": {}
+    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/Аpp_19_Polymorphism/Аpp_19.csproj": {}
   },
   "projects": {
-    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/Аpp_19/Аpp_19.csproj": {
+    "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/Аpp_19_Polymorphism/Аpp_19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/Аpp_19/Аpp_19.csproj",
+        "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/Аpp_19_Polymorphism/Аpp_19.csproj",
         "projectName": "Аpp_19",
-        "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/Аpp_19/Аpp_19.csproj",
+        "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/Аpp_19_Polymorphism/Аpp_19.csproj",
         "packagesPath": "/Users/ivelindilqnovmihaylov/.nuget/packages/",
-        "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/Аpp_19/obj/",
+        "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/Аpp_19_Polymorphism/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ivelindilqnovmihaylov/.nuget/NuGet/NuGet.Config"

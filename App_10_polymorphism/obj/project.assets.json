@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_10_polymorphism/App_10.csproj",
+      "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/App_10_polymorphism/App_10.csproj",
       "projectName": "App_10",
-      "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_10_polymorphism/App_10.csproj",
+      "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/App_10_polymorphism/App_10.csproj",
       "packagesPath": "/Users/ivelindilqnovmihaylov/.nuget/packages/",
-      "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/App_10_polymorphism/obj/",
+      "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/App_10_polymorphism/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ivelindilqnovmihaylov/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0nuyS9cDfQL1Cs+agyMlQDQGdQ3ogwjWJB6SUScIBjxkmbSp+B8TJXco2DJYdtMZZNJV28bqsYV7rb1ZacAZdw==",
+  "dgSpecHash": "apF/HykDj2w=",
   "success": true,
-  "projectFilePath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/C#/C#_2024/App_02/App2024_02.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/App_02/App2024_02.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivelindilqnovmihaylov/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/ivelindilqnovmihaylov/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/ivelindilqnovmihaylov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/exam/exam.csproj",
+      "projectUniqueName": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/exam/exam.csproj",
       "projectName": "exam",
-      "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/exam/exam.csproj",
+      "projectPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/exam/exam.csproj",
       "packagesPath": "/Users/ivelindilqnovmihaylov/.nuget/packages/",
-      "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/C#_2024/exam/obj/",
+      "outputPath": "/Users/ivelindilqnovmihaylov/Desktop/UKTC/ИТ - кариера/C#/2024_modul05/exam/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ivelindilqnovmihaylov/.nuget/NuGet/NuGet.Config"
